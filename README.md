@@ -5,6 +5,6 @@
 - Theme
 - Assignment specification
 - README
-Added git actions
+Updated git actions
 
 ## Setting up
